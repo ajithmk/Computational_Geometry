@@ -1,0 +1,40 @@
+Scanning dependencies of target seg_intersection
+[ 25%] Building CXX object CMakeFiles/seg_intersection.dir/src/auxiliary.cpp.o
+In file included from /home/ajith/Computational_Geometry/segments_intersection/../common_libraries/Eigen/Core:276:0,
+                 from /home/ajith/Computational_Geometry/segments_intersection/../common_libraries/Eigen/Dense:1,
+                 from /home/ajith/Computational_Geometry/segments_intersection/src/auxiliary.cpp:2:
+/home/ajith/Computational_Geometry/segments_intersection/../common_libraries/Eigen/src/Core/Functors.h:973:28: warning: ‘template<class _Operation> class std::binder2nd’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder2nd<T> >
+                            ^
+In file included from /usr/include/c++/5/bits/stl_function.h:1128:0,
+                 from /usr/include/c++/5/string:48,
+                 from /usr/include/c++/5/bits/locale_classes.h:40,
+                 from /usr/include/c++/5/bits/ios_base.h:41,
+                 from /usr/include/c++/5/ios:42,
+                 from /usr/include/c++/5/ostream:38,
+                 from /usr/include/c++/5/iostream:39,
+                 from /home/ajith/Computational_Geometry/segments_intersection/./include/myheader.h:1,
+                 from /home/ajith/Computational_Geometry/segments_intersection/src/auxiliary.cpp:1:
+/usr/include/c++/5/backward/binders.h:143:11: note: declared here
+     class binder2nd
+           ^
+In file included from /home/ajith/Computational_Geometry/segments_intersection/../common_libraries/Eigen/Core:276:0,
+                 from /home/ajith/Computational_Geometry/segments_intersection/../common_libraries/Eigen/Dense:1,
+                 from /home/ajith/Computational_Geometry/segments_intersection/src/auxiliary.cpp:2:
+/home/ajith/Computational_Geometry/segments_intersection/../common_libraries/Eigen/src/Core/Functors.h:977:28: warning: ‘template<class _Operation> class std::binder1st’ is deprecated [-Wdeprecated-declarations]
+ struct functor_traits<std::binder1st<T> >
+                            ^
+In file included from /usr/include/c++/5/bits/stl_function.h:1128:0,
+                 from /usr/include/c++/5/string:48,
+                 from /usr/include/c++/5/bits/locale_classes.h:40,
+                 from /usr/include/c++/5/bits/ios_base.h:41,
+                 from /usr/include/c++/5/ios:42,
+                 from /usr/include/c++/5/ostream:38,
+                 from /usr/include/c++/5/iostream:39,
+                 from /home/ajith/Computational_Geometry/segments_intersection/./include/myheader.h:1,
+                 from /home/ajith/Computational_Geometry/segments_intersection/src/auxiliary.cpp:1:
+/usr/include/c++/5/backward/binders.h:108:11: note: declared here
+     class binder1st
+           ^
+[ 50%] Linking CXX executable seg_intersection
+[100%] Built target seg_intersection

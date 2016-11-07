@@ -1,0 +1,3 @@
+/home/ajith/Computational_Geometry/segments_intersection/debug/CMakeFiles/rebuild_cache.dir
+/home/ajith/Computational_Geometry/segments_intersection/debug/CMakeFiles/edit_cache.dir
+/home/ajith/Computational_Geometry/segments_intersection/debug/CMakeFiles/seg_intersection.dir

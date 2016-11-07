@@ -1,0 +1,3 @@
+/home/ajith/Computational_Geometry/2DConvexHull/debug/CMakeFiles/edit_cache.dir
+/home/ajith/Computational_Geometry/2DConvexHull/debug/CMakeFiles/rebuild_cache.dir
+/home/ajith/Computational_Geometry/2DConvexHull/debug/CMakeFiles/2DConvexHull.dir

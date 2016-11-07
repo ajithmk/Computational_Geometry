@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(2DConvexHull)
+set(CMAKE_BUILD_TYPE Debug)
+include_directories(include)
+set(SOURCES src/main.cpp)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(2DConvexHull ${SOURCES})
