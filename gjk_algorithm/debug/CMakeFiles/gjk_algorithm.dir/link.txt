@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/gjk_algorithm.dir/src/main.cpp.o  -o gjk_algorithm -rdynamic 

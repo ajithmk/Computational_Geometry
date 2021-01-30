@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0.0)
+set(CMAKE_CXX_STANDARD 14)
+project(gjk_algorithm)
+include_directories(./include)
+set(SOURCES ./src/main.cpp)
+set(CMAKE_BUILD_TYPE Debug)
+add_executable(gjk_algorithm ${SOURCES})

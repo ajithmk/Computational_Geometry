@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/vocab1.h
+
+/home/ajith/Computational_Geometry/gjk_algorithm/src/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+string
+-
+vocab1.h
+/home/ajith/Computational_Geometry/gjk_algorithm/src/vocab1.h
+

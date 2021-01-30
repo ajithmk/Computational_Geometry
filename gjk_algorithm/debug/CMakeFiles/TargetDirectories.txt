@@ -1,0 +1,3 @@
+/home/ajith/Computational_Geometry/gjk_algorithm/debug/CMakeFiles/edit_cache.dir
+/home/ajith/Computational_Geometry/gjk_algorithm/debug/CMakeFiles/rebuild_cache.dir
+/home/ajith/Computational_Geometry/gjk_algorithm/debug/CMakeFiles/gjk_algorithm.dir
